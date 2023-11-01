@@ -16,6 +16,11 @@ Technologies / Tools that i used:
 ## Education
 #### 1. [Saint Agnes Catholic Senior High School](http://www.smak-stagnes-sby.sch.id/) | MIPA | Surabaya `2019-2022`
 
+
+## Connect With My Social Media Account:
+[Linktree](https://linktr.ee/gerrardgs)
+
+
 <!--
 **gerrardgs/gerrardgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
