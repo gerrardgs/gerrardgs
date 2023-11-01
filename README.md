@@ -6,7 +6,7 @@ Hola All, I'm Gerrard Sebastian. Currently I'm 18 years old.
 Currently I'm a college student at Telkom Institute Of Technology, which is Undergraduated Program, Informatics Major, Information and Business Faculty.
 
 Technologies / Tools that i used:
-
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 <!--
 **gerrardgs/gerrardgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
