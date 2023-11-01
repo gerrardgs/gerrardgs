@@ -18,7 +18,9 @@ Technologies / Tools that i used:
 
 
 ## Connect With My Social Media Account:
-[Linktree](https://linktr.ee/gerrardgs)
+<a href="https://linktr.ee/gerrardgs#gh-light-mode-only"><img src="https://static.wikia.nocookie.net/logopedia/images/1/14/Linktree_Icon.svg/revision/latest?cb=20220411121739" width="30px" img align="left" alt="website" style="padding-right:10px;" ></a>
+<a href="https://linktr.ee/gerrardgs#gh-dark-mode-only"><img src="https://static.wikia.nocookie.net/logopedia/images/1/14/Linktree_Icon.svg/revision/latest?cb=20220411121739" width="30px" img align="left" alt="website" style="padding-right:10px;" ></a> Linktree
+
 
 
 <!--
