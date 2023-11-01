@@ -1,5 +1,12 @@
 # Welcome To My GitHub Profile.
 
+# About Me
+Hola All, I'm Gerrard Sebastian. Currently I'm 18 years old.
+
+Currently I'm a college student at Telkom Institute Of Technology, which is Undergraduated Program, Informatics Major, Information and Business Faculty.
+
+Technologies / Tools that i used:
+
 <!--
 **gerrardgs/gerrardgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
