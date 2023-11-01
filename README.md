@@ -14,6 +14,7 @@ Technologies / Tools that i used:
 <img align="left" alt="Java" width="30px" src="https://static.wikia.nocookie.net/java/images/e/e3/Java-logo-thumb.png/revision/latest/zoom-crop/width/500/height/500?cb=20070104155523?20100317150552" style="padding-right:10px;" />Java
 
 ## Education
+#### 1. [Saint Agnes Catholic Senior High School](http://www.smak-stagnes-sby.sch.id/) | MIPA | Surabaya `2019-2022`
 
 <!--
 **gerrardgs/gerrardgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
