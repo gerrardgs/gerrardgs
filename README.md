@@ -13,6 +13,10 @@ Technologies / Tools that i used:
 
 <img align="left" alt="Java" width="30px" src="https://static.wikia.nocookie.net/java/images/e/e3/Java-logo-thumb.png/revision/latest/zoom-crop/width/500/height/500?cb=20070104155523?20100317150552" style="padding-right:10px;" />Java
 
+<img align="left" alt="SQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" style="padding-right:10px;" />SQL
+
+<img align="left" alt="GIT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" style="padding-right:10px;" />GIT
+
 ## Education
 #### 1. [Saint Agnes Catholic Senior High School](http://www.smak-stagnes-sby.sch.id/) | MIPA | Surabaya `2019-2022`
 
