@@ -7,6 +7,8 @@ Currently I'm a college student at Telkom Institute Of Technology, which is Unde
 
 Technologies / Tools that i used:
 
+<img align="left" alt="GIT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" style="padding-right:10px;" />Code | JavaScript
+
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />Code | Python
 
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png?20100317150552" style="padding-right:10px;" />Code | C
@@ -16,6 +18,8 @@ Technologies / Tools that i used:
 <img align="left" alt="SQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" style="padding-right:10px;" />Code | SQL
 
 <img align="left" alt="GIT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" style="padding-right:10px;" />Code | GIT
+
+<img align="left" alt="GIT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" style="padding-right:10px;" />Code | GitHub
 
 <img align="left" alt="GIT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Windows_11.png" style="padding-right:10px;" />OS | Windows
 
