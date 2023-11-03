@@ -23,6 +23,8 @@ Technologies / Tools that i used:
 
 <img align="left" alt="VSC" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" style="padding-right:10px;" />Editor | VSCODE
 
+<img align="left" alt="IDEA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" />Editor | IDEA
+
 <img align="left" alt="Win" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Windows_11.png" style="padding-right:10px;" />OS | Windows
 
 <img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png" style="padding-right:10px;" />OS | Linux
