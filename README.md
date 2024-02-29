@@ -3,7 +3,7 @@
 ## About Me
 Hola All, I'm Gerrard Sebastian. Currently I'm 18 years old.
 
-Currently I'm a college student at Telkom Institute Of Technology, which is Undergraduated Program, Informatics Major, Information and Business Faculty.
+Currently I'm a college student at Telkom University Surabaya, which is Undergraduated Program, Informatics Major, Informatics Faculty.
 
 Technologies / Tools that i used:
 
