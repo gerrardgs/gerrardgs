@@ -27,9 +27,6 @@ Technologies / Tools that i used:
 
 <img align="left" alt="Win" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Windows_11.png" style="padding-right:10px;" />`OS | Windows`
 
-<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png" style="padding-right:10px;" />`OS | Linux`
-
-<img align="left" alt="Debian" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" style="padding-right:10px;" />`OS | Debian`
 
 ## Education
 #### 1. [Saint Agnes Catholic Senior High School](http://www.smak-stagnes-sby.sch.id/) | MIPA | Surabaya *2019-2022*
