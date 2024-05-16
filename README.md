@@ -32,24 +32,9 @@ Technologies / Tools that i used:
 #### 1. [Saint Agnes Catholic Senior High School](http://www.smak-stagnes-sby.sch.id/) | MIPA | Surabaya *2019-2022*
 
 
-## Connect With My Social Media Account:
+## Connect With Me
 
 <a href="https://linktr.ee/gerrardgs#gh-light-mode-only"><img src="https://static.wikia.nocookie.net/logopedia/images/1/14/Linktree_Icon.svg/revision/latest?cb=20220411121739" width="30px" img align="left" alt="website" style="padding-right:10px;" ></a>
 <a href="https://linktr.ee/gerrardgs#gh-dark-mode-only"><img src="https://static.wikia.nocookie.net/logopedia/images/1/14/Linktree_Icon.svg/revision/latest?cb=20220411121739" width="30px" img align="left" alt="website" style="padding-right:10px;" ></a> [My Linktree](https://linktr.ee/gerrardgs)
 
-
-
-<!--
-**gerrardgs/gerrardgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
